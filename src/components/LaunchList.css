@@ -1,0 +1,33 @@
+.launch-list {
+    margin: 20px auto;
+    max-width: 800px;
+    text-align: left;
+    background: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .launch-item {
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+  }
+  
+  .launch-item h3 {
+    margin: 0;
+    color: #0b3d91;
+  }
+  
+  .launch-item p {
+    margin: 5px 0;
+  }
+  
+  .launch-item a {
+    color: #0073e6;
+    text-decoration: none;
+  }
+  
+  .launch-item a:hover {
+    text-decoration: underline;
+  }
+  
